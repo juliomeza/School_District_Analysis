@@ -9,7 +9,7 @@ Using bulleted lists and images of DataFrames as support, address the following 
 * How is the district summary affected?
 
 
-<img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/District%20Before.png" width="600">
+<img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/District%20Before.png">
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/District%20After.png" width="600">
 
 * How is the school summary affected?

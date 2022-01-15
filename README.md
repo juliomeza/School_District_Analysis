@@ -7,8 +7,15 @@ The purpose of this analysis is to describe how the academic dishonesty in Thoma
 ## Resutls
 Using bulleted lists and images of DataFrames as support, address the following questions.
 * How is the district summary affected?
+
+
+<img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/District%20Before.png" width="600">
+<img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/District%20After.png" width="600">
+
 * How is the school summary affected?
+
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
 * How does replacing the ninth-grade scores affect the following
   * Math and reading scores by grade
   * Scores by school spending

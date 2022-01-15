@@ -1,7 +1,7 @@
 # School District Analysis
 
 ## Overview of School District Analysis
-Explain the purpose of this analysis.
+The purpose of this analysis is to describe how the academic dishonesty in Thomas High School has affected the overall performance. 
 
 
 ## Resutls

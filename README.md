@@ -31,22 +31,37 @@ All the schools kept the same average scores and the same passing percentage wit
 
 * How does replacing the ninth-grade scores affect the following
   * Math scores by grade
+  
+Replacing the ninth grade only affected the 'Thomas High School' 9th grade. Everything else remains the same.
+
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Math%20Grade%20Before.png">
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Math%20Grade%20After.png">
   
   * Reading scores by grade
+  
+Replacing the ninth grade only affected the 'Thomas High School' 9th grade. Everything else remains the same.
+
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Reading%20Grade%20Before.png">
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Reading%20Grade%20After.png">
   
   * Scores by school spending
+
+Replacing the ninth grade affected only the $630-644 spending per student range, but can only be noticed at the decimal level, not when displaying whole numbers.
+
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Spending%20Before.png">
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Spending%20After.png">
 
   * Scores by school size
+
+Replacing the ninth grade is not affecting the scores by school size.
+
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Size%20Before.png">
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Size%20After.png">
 
   * Scores by school type
+
+Replacing the ninth grade is not affecting the scores by school type.
+
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Type%20Before.png">
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Type%20After.png">
 

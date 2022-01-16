@@ -30,10 +30,25 @@ All the schools kept the same average scores and the same passing percentage wit
 | % Overall Passing | 90.9% | 65.1% |
 
 * How does replacing the ninth-grade scores affect the following
-  * Math and reading scores by grade
+  * Math scores by grade
+<img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Math%20Grade%20Before.png">
+<img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Math%20Grade%20After.png">
+  
+  * Reading scores by grade
+<img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Reading%20Grade%20Before.png">
+<img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Reading%20Grade%20After.png">
+  
   * Scores by school spending
+<img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Spending%20Before.png">
+<img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Spending%20After.png">
+
   * Scores by school size
+<img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Size%20Before.png">
+<img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Size%20After.png">
+
   * Scores by school type
+<img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Type%20Before.png">
+<img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Type%20After.png">
 
 
 ## Summary

@@ -5,7 +5,6 @@ The purpose of this analysis is to describe how the academic dishonesty in Thoma
 
 
 ## Resutls
-Using bulleted lists and images of DataFrames as support, address the following questions.
 * How is the district summary affected?
 
 There is a tiny change in the district summary, so small that we can conclude that removing the 9th grade scores for math and reading from Thomas High School has not effect in the district summary.

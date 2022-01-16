@@ -14,7 +14,8 @@ There is a tiny change in the district summary, so small that we can conclude th
 
 * How is the school summary affected?
 
-
+<img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/School%20Before.png">
+<img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/School%20After.png">
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 

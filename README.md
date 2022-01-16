@@ -88,5 +88,7 @@ The purpose of this analysis is to describe how the academic dishonesty in Thoma
 
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs
-
-## Resources
+1. The 9th grade was removed from the THS passing percentage analysis.
+2. The THS summary values were manually updated to reflect more accurate resutls.
+3. The differences can only be noticed after the decimal point.
+4. There is not a notable difference between the average scores after removing the THS ninth grade.

@@ -9,24 +9,24 @@ The purpose of this analysis is to describe how the academic dishonesty in Thoma
 
 <ul>
     There is a tiny change in the district summary, so small that we can conclude that removing the 9th grade scores for math and reading from Thomas High School has not effect in the district summary.
-    
-    <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/District%20Before.png">
-    <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/District%20After.png">
-    
 </ul>
 
+<img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/District%20Before.png">
+<img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/District%20After.png">
 
 
 * How is the school summary affected?
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All the schools kept the same average scores and the same passing percentage with the excption of 'Thomas High School'.
+<ul>
+    All the schools kept the same average scores and the same passing percentage with the excption of 'Thomas High School'.
+</ul>
 
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/School%20Before.png">
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/School%20After.png">
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After replacing all the ninth graders' math and reading scores for 'Thomas High School' with NaN, the math, reading and overall passing percentage for THS have decreased around 28%, but the average math and reading scores remain very similar.
+<ul>
+After replacing all the ninth graders' math and reading scores for 'Thomas High School' with NaN, the math, reading and overall passing percentage for THS have decreased around 28%, but the average math and reading scores remain very similar.
+</ul>
 
 | Thomas High School | BEFORE | AFTER |
 | ------------- | ------------- | ------------- |

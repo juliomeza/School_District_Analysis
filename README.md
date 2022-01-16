@@ -8,7 +8,7 @@ The purpose of this analysis is to describe how the academic dishonesty in Thoma
 * How is the district summary affected?
 
 <ul>
-    There is a tiny change in the district summary, so small that we can conclude that removing the 9th grade scores for math and reading from Thomas High School has not effect in the district summary.
+There is a tiny change in the district summary, so small that we can conclude that removing the 9th grade scores for math and reading from Thomas High School has not effect in the district summary.
 </ul>
 
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/District%20Before.png">
@@ -17,7 +17,7 @@ The purpose of this analysis is to describe how the academic dishonesty in Thoma
 
 * How is the school summary affected?
 <ul>
-    All the schools kept the same average scores and the same passing percentage with the excption of 'Thomas High School'.
+All the schools kept the same average scores and the same passing percentage with the excption of 'Thomas High School'.
 </ul>
 
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/School%20Before.png">
@@ -36,8 +36,11 @@ After replacing all the ninth graders' math and reading scores for 'Thomas High 
 
 * How does replacing the ninth-grade scores affect the following
   * Math scores by grade
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Replacing the ninth grade only affected the 'Thomas High School' 9th grade. Everything else remains the same.
+<ul>
+    <ul>
+        Replacing the ninth grade only affected the 'Thomas High School' 9th grade. Everything else remains the same.
+    </ul>
+</ul>
 
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Math%20Grade%20Before.png">
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/Math%20Grade%20After.png">

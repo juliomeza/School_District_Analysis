@@ -14,7 +14,13 @@ There is a tiny change in the district summary, so small that we can conclude th
 
 * How is the school summary affected?
 
-All the schools kept the same average scores and the same passing percentage with the excption of 'Thomas High School'. After replacing all the 9th grade math and reading scores for 'Thomas High School' with NaN, the math, reading and overall passing percentage fir THS have decreased around 28%.
+All the schools kept the same average scores and the same passing percentage with the excption of 'Thomas High School'. After replacing all the 9th grade math and reading scores for 'Thomas High School' with NaN, the math, reading and overall passing percentage for THS have decreased around 28%.
+
+| Thomas High School | BEFORE | AFTER |
+| ------------- | ------------- | ------------- |
+| % Passing Math | 93.3% | 66.9% |
+| % Passing Reading | 97.3% | 69.7% |
+| % Overall Passing | 90.9% | 65.1% |
 
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/School%20Before.png">
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/School%20After.png">

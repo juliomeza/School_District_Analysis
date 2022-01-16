@@ -7,7 +7,12 @@ The purpose of this analysis is to describe how the academic dishonesty in Thoma
 ## Resutls
 * How is the district summary affected?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There is a tiny change in the district summary, so small that we can conclude that &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;removing the 9th grade scores for math and reading from Thomas High School has not effect in the district summary.
+<ul>
+    TEST TESt
+    TEST Y YA
+</ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There is a tiny change in the district summary, so small that we can conclude that removing the 9th grade scores for math and reading from Thomas High School has not effect in the district summary.
 
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/District%20Before.png">
 <img src="https://github.com/juliomeza/School_District_Analysis/blob/main/Resources/District%20After.png">
